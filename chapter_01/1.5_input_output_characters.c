@@ -9,7 +9,7 @@ int main() {
 
   while(c!= EOF){ //EOF =-1
     putchar(c);
-    c=getchar();
+    c=getchar();  
   }
 
 }
